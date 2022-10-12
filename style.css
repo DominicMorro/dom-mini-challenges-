@@ -1,0 +1,30 @@
+body,
+p {
+  margin: 0;
+}
+
+main {
+  display: flex;
+  padding: 20px;
+  margin: 15px;
+  flex-direction: column;
+}
+
+.vending-options {
+  margin: 15px;
+}
+.light-bulb {
+  padding: 20px;
+}
+.light-bulb button {
+  margin: 10px;
+}
+
+.light {
+  background-color: black;
+  color: white;
+  display: flex;
+  width: 70px;
+  padding: 10px;
+  border-radius: 15px;
+}
